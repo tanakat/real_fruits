@@ -3,3 +3,5 @@ cherries
 blueberries
 apples
 bananas
+pomegranates
+pluots
